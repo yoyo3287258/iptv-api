@@ -1,8 +1,22 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
-
-
+https://www.iyouhun.com/tv/zb		# 游魂直播源
+https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
+https://3043.kstore.space/bhvip/bhzb.txt # 宝盒直播
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt   # 潇洒AI直播
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u   # 潇洒AI直播
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u   # IPTV 默认源
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u   # IPTV IPv4
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u   # IPTV IPv6
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u # myIPTV IPv4
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u # myIPTV IPv6
+https://live.zbds.top/tv/iptv4.txt # 自动扫描直播源 IPTV4
+https://live.zbds.top/tv/iptv4.m3u # M3U 格式直播源（已带台标和EPG）
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u	# BurningC4
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U # 茶客源
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u # Kimentanm源，有部分IPv6
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u # BigBigGrandG源，有部分IPv6
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u # YanG集合源，有部分IPv6
 
 
 [WHITELIST]
