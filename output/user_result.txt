@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-17 21:49:27,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-06-18 07:44:13,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -703,4 +703,5 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 汕头经济,https://t.freetv.fun/live/shan-tou-jing-ji-3.m3u8
 汕头经济,https://t.freetv.fun/live/shan-tou-jing-ji-2.m3u8
 汕头经济,https://t.freetv.fun/live/shan-tou-jing-ji-1.m3u8
+汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0590&tk=a0c4f6cfaba3
 茂名综合,https://hls-gateway.vpstv.net/streams/708982.m3u8
