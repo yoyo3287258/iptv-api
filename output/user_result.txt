@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-17 07:28:04,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-06-17 21:49:27,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -82,7 +82,6 @@ CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV-7,https://jzb.wwkejishe.top/?id=585
 CCTV-7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-CCTV-8,http://123.130.84.106:8154/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV-8,http://goo.bkpcp.top/mg/cctv8
@@ -92,7 +91,7 @@ CCTV-8,https://hls-gateway.vpstv.net/streams/476892.m3u8
 CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
 CCTV-8,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
 CCTV-8,https://jzb.wwkejishe.top/?id=586
-CCTV-9,http://123.130.84.106:8154/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8
 CCTV-9,http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
@@ -102,6 +101,7 @@ CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9,http://3501776.xyz:35455/gaoma/cctv9.m3u8
 CCTV-9,https://jzb.wwkejishe.top/?id=587
+CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV-10,http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 CCTV-10,http://goo.bkpcp.top/mg/cctv10
