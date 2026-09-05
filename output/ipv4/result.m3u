@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yoyo3287258/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-09-05 07:53:42
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-09-05 21:21:25
 http://107.150.60.122/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="📺央视频道",CCTV-2
 http://107.150.60.122/live/cctv2hd.m3u8
@@ -23,12 +23,6 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 http://www.yao87.com:4022/udp/239.76.246.101:1234
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="📡卫视频道",北京卫视
 http://107.150.60.122/live/bjwshd.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://101.66.195.43:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://101.66.195.43:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://101.66.195.43:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
@@ -42,15 +36,11 @@ http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
-http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://107.150.60.122/live/jlwshd.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
+http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://107.150.60.122/live/jswshd.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="📡卫视频道",江西卫视
-http://101.66.195.43:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://101.66.195.43:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
@@ -69,5 +59,3 @@ http://107.150.60.122/live/scwshd.m3u8
 http://107.150.60.122/live/szwshd.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="天津卫视.png" group-title="📡卫视频道",天津卫视
 http://107.150.60.122/live/tjwshd.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
-http://101.66.195.43:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
