@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-08 01:22:24,http://107.150.60.122/live/cctv2hd.m3u8
+2026-10-08 09:41:52,http://107.150.60.122/live/cctv2hd.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
@@ -27,3 +27,5 @@ CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 
 ☘️广东频道,#genre#
+汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0590&tk=a0c4f6cfaba3
+茂名公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7418&tk=a0c4f6cfaba3
